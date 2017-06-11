@@ -1,0 +1,9 @@
+{
+    "tests": [{
+        "name":"Databases",
+        "url":"http://localhost:3000/databases.json"
+    },{
+        "name":"External Services",
+        "url":"http://localhost:3000/services.json"
+    }]
+}
